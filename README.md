@@ -1,4 +1,4 @@
-# nodeauth
+# NodeAuth
  NodeJS + MongoDB + ExpressJs, User Authentication and Management System
  
 ### Frameworks and Languages
