@@ -27,3 +27,5 @@
 - passport-local
 - pug 3.0.2
 - serve-favicon 2.5.0
+
+### Installation
