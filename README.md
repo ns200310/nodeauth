@@ -1,5 +1,13 @@
 # nodeauth
  NodeJS + MongoDB + ExpressJs, User Authentication and Management System
+ 
+### Frameworks and Languages
+- Serverside: NodeJS
+- Database: MongoDB
+- App Framework: ExpressJS
+- View Engine: PUG
+
+
 ### Dependencies
 - bcryptjs 2.3.0
 - body-parser 1.19.0
