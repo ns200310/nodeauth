@@ -30,7 +30,11 @@
 
 ## Installation
 ### Install MongoDB
+https://www.mongodb.com/try/download/community
+
 ### Install NodeJS
+https://nodejs.org/en/download/
+
 ### Install NodeAuth
 ```
 git clone https://github.com/sathninduk/nodeauth.git nodeauth
@@ -44,4 +48,4 @@ npm install
 ```
 npm start
 ```
-http://localhost:3000
+Visit http://localhost:3000
