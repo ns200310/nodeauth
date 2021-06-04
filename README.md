@@ -30,8 +30,15 @@
 
 ### Installation
 ```
+git clone https://github.com/sathninduk/nodeauth.git nodeauth
+```
+```
+cd nodeauth
+```
+```
 npm install
 ```
 ```
 npm start
 ```
+http://localhost:3000
