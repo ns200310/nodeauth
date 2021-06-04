@@ -1,14 +1,14 @@
 # NodeAuth
  NodeJS + MongoDB + ExpressJs, User Authentication and Management System
  
-### Frameworks and Languages
+## Frameworks and Languages
 - Serverside: NodeJS
 - Database: MongoDB
 - App Framework: ExpressJS
 - View Engine: PUG
 
 
-### Dependencies
+## Dependencies
 - bcryptjs 2.3.0
 - body-parser 1.19.0
 - connect-flash
@@ -28,7 +28,10 @@
 - pug 3.0.2
 - serve-favicon 2.5.0
 
-### Installation
+## Installation
+## Install MongoDB
+## Install NodeJS
+## Install NodeAuth
 ```
 git clone https://github.com/sathninduk/nodeauth.git nodeauth
 ```
