@@ -29,9 +29,9 @@
 - serve-favicon 2.5.0
 
 ## Installation
-## Install MongoDB
-## Install NodeJS
-## Install NodeAuth
+### Install MongoDB
+### Install NodeJS
+### Install NodeAuth
 ```
 git clone https://github.com/sathninduk/nodeauth.git nodeauth
 ```
