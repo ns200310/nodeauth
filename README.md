@@ -29,3 +29,9 @@
 - serve-favicon 2.5.0
 
 ### Installation
+```
+npm install
+```
+```
+npm start
+```
