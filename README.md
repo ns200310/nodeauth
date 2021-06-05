@@ -8,7 +8,7 @@
 - View Engine: PUG
 
 ## Authentication Architecture
-
+<img src="https://raw.githubusercontent.com/sathninduk/nodeauth/main/architecture.jpg">
 
 
 ## Dependencies
