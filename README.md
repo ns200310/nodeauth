@@ -7,6 +7,9 @@
 - App Framework: ExpressJS
 - View Engine: PUG
 
+## Authentication Architecture
+
+
 
 ## Dependencies
 - bcryptjs 2.3.0
